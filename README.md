@@ -9,3 +9,13 @@
 
 - [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/)
 
+### About Me
+
+- 👋 Hi, my name is Cristian and I am largely self-taught since the age of 16, when I began programming as a hobby.
+- 💡 This hobby would eventually become a profession years later, when I realized that there are many people who require the help of a programmer to make their ideas a reality.
+- 👀 I am constantly reading and learning to improve and stay up to date with new technologies and tools.
+- ⚡ I am always trying to improve my programming skills.
+
+### Contact Me
+
+- [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/
