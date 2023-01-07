@@ -18,4 +18,4 @@
 
 ### Contact Me
 
-- [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/
+- [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/)
