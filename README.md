@@ -5,9 +5,10 @@
 - 👀 Diariamente estoy leyendo y aprendiendo para mejorar y estar al día con las nuevas tecnologías y herramientas.
 - ⚡ Siempre me encuentro tratando de mejorar mis habilidades de programación
 
-### Puedes contactarme en:
+### Contactame en / Contact Me:
 
 - [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/)
+- Correo electronico: cristian.cuevastapia@gmail.com
 
 ### About Me
 
@@ -15,7 +16,3 @@
 - 💡 This hobby would eventually become a profession years later, when I realized that there are many people who require the help of a programmer to make their ideas a reality.
 - 👀 I am constantly reading and learning to improve and stay up to date with new technologies and tools.
 - ⚡ I am always trying to improve my programming skills.
-
-### Contact Me
-
-- [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/)
