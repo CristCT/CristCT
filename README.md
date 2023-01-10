@@ -7,7 +7,7 @@
 
 ### Contactame en / Contact Me:
 
-- Correo electronico: cristian.cuevastapia@gmail.com
+- Email: cristian.cuevastapia@gmail.com
 - [Linkedin](https://www.linkedin.com/in/cristian-cuevas-tapia/)
 
 ### About Me
